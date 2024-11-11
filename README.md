@@ -4,11 +4,12 @@ Cursos da plataforma **https://b7web.com.br/**.
 
 Ainda não iniciei nenhum dos cursos listados, pois estou focado em terminar o **Curso Desenvolvimento Web Completo** da [**Danki Code**](https://github.com/al4nn/danki-code).
 
+### A ser feito
+
 -   **HTML5 e CSS3** - 0% (Não Iniciado)
 -   **Javascript** - 0% (Não Iniciado)
 -   **Git/GitHub** - 0% (Não Iniciado)
 -   **Bancos de Dados** - 0% (Não Iniciado)
--   **PHP (Versão Antiga)** - 0% (Não Iniciado)
 -   **PHP 8.3** - 0% (Não Iniciado)
 -   **Laravel** - 0% (Não Iniciado)
 -   **Laravel 11** - 0% (Não Iniciado)
